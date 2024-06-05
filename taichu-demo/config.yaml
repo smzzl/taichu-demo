@@ -1,6 +1,0 @@
-model_names :
-  - 7B
-  - 100B
-
-max_messages :
-  1000
